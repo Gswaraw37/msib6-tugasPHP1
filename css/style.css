@@ -1,0 +1,37 @@
+/* # Empty CSS file for your own CSS */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.border {
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.profile {
+    border-radius: 50%;
+}
+
+.biodata {
+    font-family: timesnewroman;
+    color: salmon;
+    font-size: 25pt;
+}
+
+.isi {
+    padding: 0 20px 0 20px;
+}
+
+.isi, ul {
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    color: #383961;
+}
+
+li a:hover {
+    color: salmon;
+}
