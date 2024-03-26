@@ -1,3 +1,7 @@
+<?php
+$nm = 'Genta Swara';
+?>
+
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
 
@@ -6,7 +10,7 @@
         <div class="row">
             <div class="col-md-12">
                 <center>
-                    <span class="badge badge-default">Design By: Genta Swara &copy; 2024 Studi Independen PT. Nurul Fikri Cipta Inovasi</span>
+                    <span class="badge badge-default">Design By: <?= $nm ?> &copy; 2024 Studi Independen PT. Nurul Fikri Cipta Inovasi</span>
                 </center>
             </div>
         </div>
